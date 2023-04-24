@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashanthsanath
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently deep diving in Big Data technologies 
 - 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 You can contact me on prashanthsanath@gmail.com
